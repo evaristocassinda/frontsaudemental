@@ -1,0 +1,1 @@
+export const environment = { production: true, apiUrl: '/api/v1', demoMode: true } as const;
